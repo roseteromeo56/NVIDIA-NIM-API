@@ -33,3 +33,5 @@ NVIDIA AI Enterprise Supported
 NVIDIA NIM
 llama3
 helm fetch https://helm.ngc.nvidia.com/nvidia/charts/gpu-operator-v25.3.0.tgz
+GitHub license
+![image](https://github.com/user-attachments/assets/1936f07c-0cbc-4b1a-b531-438245bf8df9)
